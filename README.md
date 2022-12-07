@@ -20,7 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 this project is only a beginner practice to what i have learnt and built  so far in my web development journey
 ### Screenshot
 
-![](./des
 C:\Users\User\Desktop\frontendmentor\largescren.png
 C:\Users\User\Desktop\frontendmentor\mobilescreen.png
 
